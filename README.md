@@ -1,6 +1,6 @@
-# database_hospital
+# Database_hospital
 
-## estrutura do banco de dados
+## Estrutura do banco de dados
 
 ### especialidade
 Cada médico pode ter até duas especialidades, sendo elas pediatria, clínica geral, gastroenterologia e dermatologia.
