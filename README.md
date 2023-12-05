@@ -1,4 +1,4 @@
-# Database_hospital
+# Database_Hospital
 
 ## Estrutura do banco de dados
 
