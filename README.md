@@ -10,7 +10,7 @@ Cada médico pode ter até duas especialidades, sendo elas pediatria, clínica g
 ### medico
 Os médicos precisam informar se são generalistas, especialistas ou residentes juntamente com seus dados pessoais que são nome completo, CPF, data de nascimento, CRM, UF dos estado, UF do município, área de atuação, especialidade, número para contato.
 
-### pacientes
+### paciente
 Os pacientes precisam informar nome, data de nascimento, endereço, telefone, e-mail, CPF, RG e se possui convênio.
 
 ### convenio
